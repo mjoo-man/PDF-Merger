@@ -4,7 +4,7 @@ My attempt at creating a pdf merger in python so that i can add engineering shee
 Basic Operations:
 
 -Hit run and select the files you want merged together
-- the code will merge files in order of selection
+- the code will merge files in order of selectionwhich
 - the merged file will appear in the same folder as the FIRST selected document
 	with the same filename+'-merged' after it
 '''
